@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "nama": "Candi Borobudur",
+    "provinsi": "Jawa Tengah",
+    "kota": "Magelang",
+    "kategori": "Budaya",
+    "deskripsi": "Candi Borobudur adalah candi Buddha terbesar di dunia yang dibangun pada abad ke-8 dan ke-9 Masehi oleh Dinasti Syailendra. Terletak di Magelang, Jawa Tengah, candi ini merupakan salah satu Situs Warisan Dunia UNESCO dan menjadi ikon pariwisata Indonesia. Struktur candi berbentuk mandala dengan 2.672 panel relief dan 504 arca Buddha, menceritakan perjalanan menuju pencerahan.",
+    "alamat": "Jl. Badrawati, Borobudur, Magelang, Jawa Tengah",
+    "koordinat": {
+      "lat": -7.6079,
+      "lon": 110.2038
+    },
+    "jam_buka": "06.00 - 17.00 WIB",
+    "harga_tiket": "Rp 50.000 (domestik dewasa)",
+    "gambar": "images/borobudur.jpg",
+    "rating": 4.8,
+    "tips": "Datang pagi hari sebelum jam 7 untuk menghindari keramaian dan menikmati suasana berkabut yang indah.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/1280px-Borobudur-Nothwest-view.jpg"
+  },
+  {
+    "id": 2,
+    "nama": "Candi Prambanan",
+    "provinsi": "Jawa Tengah",
+    "kota": "Sleman",
+    "kategori": "Budaya",
+    "deskripsi": "Candi Prambanan adalah kompleks candi Hindu terbesar di Indonesia dan salah satu yang terbesar di Asia Tenggara. Dibangun pada abad ke-9 oleh Kerajaan Mataram Kuno, candi ini dipersembahkan untuk Trimurti Hindu: Brahma, Wisnu, dan Siwa. Candi Siwa merupakan yang tertinggi dengan ketinggian 47 meter. Lokasi ini juga terkenal sebagai tempat pementasan Sendratari Ramayana.",
+    "alamat": "Jl. Raya Solo - Yogyakarta No.16, Prambanan, Sleman, DI Yogyakarta",
+    "koordinat": {
+      "lat": -7.752,
+      "lon": 110.4914
+    },
+    "jam_buka": "06.30 - 17.00 WIB",
+    "harga_tiket": "Rp 50.000 (domestik dewasa)",
+    "gambar": "images/prambanan.jpg",
+    "rating": 4.7,
+    "tips": "Kunjungi saat malam hari untuk menonton pertunjukan Sendratari Ramayana dengan latar belakang candi yang megah.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Candi_Prambanan.jpg/1280px-Candi_Prambanan.jpg"
+  },
+  {
+    "id": 3,
+    "nama": "Kawah Ijen",
+    "provinsi": "Jawa Timur",
+    "kota": "Banyuwangi",
+    "kategori": "Alam",
+    "deskripsi": "Kawah Ijen adalah kawah vulkanik asam terbesar di dunia dengan danau kawah berwarna tosca yang menakjubkan. Terletak di perbatasan Banyuwangi dan Bondowoso, Kawah Ijen terkenal dengan fenomena 'Blue Fire' atau api biru yang langka — salah satu dari dua tempat di dunia di mana fenomena ini bisa dilihat. Para penambang belerang tradisional masih bekerja di sini setiap harinya.",
+    "alamat": "Licin, Banyuwangi, Jawa Timur",
+    "koordinat": {
+      "lat": -8.058,
+      "lon": 114.242
+    },
+    "jam_buka": "02.00 - 12.00 WIB (untuk blue fire: dini hari)",
+    "harga_tiket": "Rp 5.000 (weekday), Rp 7.500 (weekend)",
+    "gambar": "images/kawah_ijen.jpg",
+    "rating": 4.9,
+    "tips": "Bawa masker gas dan jaket tebal. Untuk melihat blue fire, berangkat mendaki pukul 01.00 dini hari.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kawah_Ijen_Blue_Fire.jpg/1280px-Kawah_Ijen_Blue_Fire.jpg"
+  },
+  {
+    "id": 4,
+    "nama": "Gunung Bromo",
+    "provinsi": "Jawa Timur",
+    "kota": "Probolinggo",
+    "kategori": "Alam",
+    "deskripsi": "Gunung Bromo adalah gunung berapi aktif di Jawa Timur yang terkenal dengan panorama matahari terbitnya yang spektakuler. Berada di Taman Nasional Bromo Tengger Semeru, kawasan ini dikelilingi lautan pasir seluas 10 km² dan dihuni oleh Suku Tengger yang masih menjaga tradisi leluhur. Pemandangan dari Penanjakan saat fajar adalah salah satu yang paling ikonik di Indonesia.",
+    "alamat": "Ngadisari, Sukapura, Probolinggo, Jawa Timur",
+    "koordinat": {
+      "lat": -7.9425,
+      "lon": 112.953
+    },
+    "jam_buka": "24 jam (Taman Nasional)",
+    "harga_tiket": "Rp 32.500 (weekday), Rp 47.500 (weekend)",
+    "gambar": "images/gunung_bromo.jpg",
+    "rating": 4.9,
+    "tips": "Menginap di Cemoro Lawang agar bisa naik ke Penanjakan dini hari pukul 03.30 untuk melihat sunrise terbaik.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mount_Bromo_at_sunrise%2C_showing_the_tengger_caldera.jpg/1280px-Mount_Bromo_at_sunrise%2C_showing_the_tengger_caldera.jpg"
+  },
+  {
+    "id": 5,
+    "nama": "Pantai Parangtritis",
+    "provinsi": "DI Yogyakarta",
+    "kota": "Bantul",
+    "kategori": "Alam",
+    "deskripsi": "Pantai Parangtritis adalah pantai paling terkenal di Yogyakarta, terletak sekitar 27 km selatan kota. Pantai ini dikenal dengan ombaknya yang kuat dan gumuk pasir (sand dunes) yang langka di Asia Tenggara. Dalam mitologi Jawa, pantai ini dipercaya sebagai tempat bersemayam Ratu Kidul, penguasa Laut Selatan. Spot sunset di sini sangat populer.",
+    "alamat": "Parangtritis, Kretek, Bantul, DI Yogyakarta",
+    "koordinat": {
+      "lat": -8.0256,
+      "lon": 110.3328
+    },
+    "jam_buka": "24 jam",
+    "harga_tiket": "Rp 10.000",
+    "gambar": "images/parangtritis.jpg",
+    "rating": 4.4,
+    "tips": "Jangan berenang karena arus sangat kuat. Coba naik delman atau ATV di sepanjang pantai untuk pengalaman unik.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Parangtritis_beach.jpg/1280px-Parangtritis_beach.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Keraton Yogyakarta",
+    "provinsi": "DI Yogyakarta",
+    "kota": "Yogyakarta",
+    "kategori": "Budaya",
+    "deskripsi": "Keraton Yogyakarta atau Kraton Ngayogyakarta Hadiningrat adalah istana resmi Kesultanan Ngayogyakarta Hadiningrat yang berdiri sejak 1755. Kompleks keraton masih ditinggali keluarga sultan dan menjadi pusat kebudayaan Jawa. Pengunjung dapat menyaksikan pertunjukan tari, gamelan, wayang, dan batik setiap harinya. Arsitektur keraton memadukan gaya Jawa, Eropa, dan Hindu.",
+    "alamat": "Jl. Rotowijayan Blok No. 1, Yogyakarta",
+    "koordinat": {
+      "lat": -7.8053,
+      "lon": 110.3642
+    },
+    "jam_buka": "09.00 - 14.00 WIB (Senin-Minggu, tutup Jumat)",
+    "harga_tiket": "Rp 15.000 (domestik)",
+    "gambar": "images/keraton_yogyakarta.jpg",
+    "rating": 4.5,
+    "tips": "Datang Sabtu atau Minggu pagi untuk menyaksikan pertunjukan seni tradisional Jawa di halaman keraton.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Yogyakarta_kraton.jpg/1280px-Yogyakarta_kraton.jpg"
+  },
+  {
+    "id": 7,
+    "nama": "Taman Nasional Ujung Kulon",
+    "provinsi": "Banten",
+    "kota": "Pandeglang",
+    "kategori": "Alam",
+    "deskripsi": "Taman Nasional Ujung Kulon adalah taman nasional pertama di Indonesia dan Situs Warisan Dunia UNESCO. Terletak di ujung barat Pulau Jawa, kawasan ini merupakan habitat terakhir Badak Jawa (Rhinoceros sondaicus), salah satu mamalia paling langka di dunia. Taman ini mencakup hutan hujan tropis, pantai, terumbu karang, dan Pulau Krakatau yang bersejarah.",
+    "alamat": "Sumur, Pandeglang, Banten",
+    "koordinat": {
+      "lat": -6.75,
+      "lon": 105.3667
+    },
+    "jam_buka": "08.00 - 16.00 WIB",
+    "harga_tiket": "Rp 5.000 (weekday), Rp 7.500 (weekend)",
+    "gambar": "images/ujung_kulon.jpg",
+    "rating": 4.6,
+    "tips": "Daftarkan diri ke kantor TNUK di Tamanjaya. Bawa perlengkapan camping untuk menginap dan jelajahi pantai-pantainya.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ujung_Kulon_National_Park.jpg/1280px-Ujung_Kulon_National_Park.jpg"
+  },
+  {
+    "id": 8,
+    "nama": "Pantai Tanjung Lesung",
+    "provinsi": "Banten",
+    "kota": "Pandeglang",
+    "kategori": "Alam",
+    "deskripsi": "Pantai Tanjung Lesung adalah kawasan wisata bahari di ujung barat Jawa yang terkenal dengan pasir putihnya yang bersih dan air lautnya yang biru jernih. Kawasan ini merupakan Kawasan Ekonomi Khusus (KEK) pariwisata pertama di Indonesia. Spot snorkeling dan diving sangat populer di sini, dengan terumbu karang yang masih terjaga. Pemandangan Gunung Krakatau dari sini sangat menakjubkan.",
+    "alamat": "Tanjungjaya, Panimbang, Pandeglang, Banten",
+    "koordinat": {
+      "lat": -6.5667,
+      "lon": 105.65
+    },
+    "jam_buka": "24 jam",
+    "harga_tiket": "Rp 25.000",
+    "gambar": "images/tanjung_lesung.jpg",
+    "rating": 4.3,
+    "tips": "Waktu terbaik berkunjung April–Oktober (musim kemarau). Sewa snorkel untuk menjelajahi terumbu karang.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tanjung_Lesung_beach.jpg/1280px-Tanjung_Lesung_beach.jpg"
+  },
+  {
+    "id": 9,
+    "nama": "Gunung Semeru",
+    "provinsi": "Jawa Timur",
+    "kota": "Lumajang",
+    "kategori": "Alam",
+    "deskripsi": "Gunung Semeru adalah gunung tertinggi di Pulau Jawa dengan ketinggian 3.676 mdpl dan gunung berapi aktif yang terus-menerus mengeluarkan asap. Dalam mitologi Hindu-Jawa, Semeru dianggap sebagai tempat bersemayam para dewa. Pendakian ke puncak Mahameru melewati Ranu Kumbolo, danau kawah yang indah, dan Oro-Oro Ombo yang dipenuhi bunga violet.",
+    "alamat": "Senduro, Lumajang, Jawa Timur",
+    "koordinat": {
+      "lat": -8.1076,
+      "lon": 112.9225
+    },
+    "jam_buka": "Pos pendakian dibuka 24 jam",
+    "harga_tiket": "Rp 32.500 (weekday), Rp 47.500 (weekend)",
+    "gambar": "images/gunung_semeru.jpg",
+    "rating": 4.8,
+    "tips": "Wajib memiliki SIMAKSI (Surat Izin Masuk Kawasan) yang bisa didapat online. Persiapkan fisik minimal 2 bulan sebelumnya.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Semeru_from_Ranu_Kumbolo.jpg/1280px-Semeru_from_Ranu_Kumbolo.jpg"
+  },
+  {
+    "id": 10,
+    "nama": "Taman Mini Indonesia Indah",
+    "provinsi": "DKI Jakarta",
+    "kota": "Jakarta Timur",
+    "kategori": "Budaya",
+    "deskripsi": "Taman Mini Indonesia Indah (TMII) adalah taman wisata budaya bertema yang menampilkan kekayaan budaya seluruh provinsi di Indonesia. Dibangun pada 1975 atas prakarsa Ibu Tien Soeharto, kawasan seluas 150 hektar ini menampilkan anjungan daerah dengan rumah adat, pakaian tradisional, dan pertunjukan seni dari seluruh nusantara. Terdapat juga museum, teater IMAX, dan wahana bermain.",
+    "alamat": "Jl. Raya Taman Mini, Jakarta Timur, DKI Jakarta",
+    "koordinat": {
+      "lat": -6.3024,
+      "lon": 106.8952
+    },
+    "jam_buka": "07.00 - 19.00 WIB",
+    "harga_tiket": "Rp 25.000 (dewasa)",
+    "gambar": "images/taman_mini.jpg",
+    "rating": 4.3,
+    "tips": "Sewa sepeda atau gunakan kereta keliling untuk menjelajahi kawasan yang luas ini. Cek jadwal pertunjukan seni sebelum datang.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Taman_Mini_Indonesia_Indah.JPG/1280px-Taman_Mini_Indonesia_Indah.JPG"
+  },
+  {
+    "id": 11,
+    "nama": "Kepulauan Seribu",
+    "provinsi": "DKI Jakarta",
+    "kota": "Jakarta Utara",
+    "kategori": "Alam",
+    "deskripsi": "Kepulauan Seribu adalah gugusan kepulauan yang terdiri dari 110 pulau kecil di Teluk Jakarta. Meskipun bernama 'Seribu', jumlah pulaunya tidak sebanyak itu. Beberapa pulau populer untuk wisata adalah Pulau Tidung, Pulau Pramuka, dan Pulau Bidadari. Aktivitas populer meliputi snorkeling, diving, bersepeda, dan menikmati pantai berpasir putih.",
+    "alamat": "Kepulauan Seribu, DKI Jakarta",
+    "koordinat": {
+      "lat": -5.6078,
+      "lon": 106.5767
+    },
+    "jam_buka": "24 jam",
+    "harga_tiket": "Variatif (tergantung paket wisata)",
+    "gambar": "images/kepulauan_seribu.jpg",
+    "rating": 4.4,
+    "tips": "Naik kapal dari Dermaga Muara Angke atau Marina Ancol. Pesan penginapan jauh-jauh hari terutama saat liburan.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pulau_Tidung%2C_Kepulauan_Seribu.jpg/1280px-Pulau_Tidung%2C_Kepulauan_Seribu.jpg"
+  },
+  {
+    "id": 12,
+    "nama": "Kebun Raya Bogor",
+    "provinsi": "Jawa Barat",
+    "kota": "Bogor",
+    "kategori": "Alam",
+    "deskripsi": "Kebun Raya Bogor adalah kebun botanikal tertua dan terbesar di Asia Tenggara, berdiri sejak 1817 pada masa pemerintahan kolonial Belanda. Luasnya mencapai 87 hektar dan memiliki koleksi lebih dari 13.000 jenis tanaman dari seluruh dunia. Di dalam kebun terdapat Istana Bogor, kolam teratai, dan makam Belanda kuno. Kebun ini juga merupakan pusat penelitian botani terkemuka.",
+    "alamat": "Jl. Ir. H. Juanda No.13, Bogor, Jawa Barat",
+    "koordinat": {
+      "lat": -6.5971,
+      "lon": 106.798
+    },
+    "jam_buka": "07.00 - 17.00 WIB",
+    "harga_tiket": "Rp 25.500 (dewasa)",
+    "gambar": "images/kebun_raya_bogor.jpg",
+    "rating": 4.6,
+    "tips": "Datang pagi hari saat udara Bogor masih sejuk. Jangan lupa bawa payung karena Bogor sering hujan tiba-tiba.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kebun_Raya_Bogor_2.jpg/1280px-Kebun_Raya_Bogor_2.jpg"
+  },
+  {
+    "id": 13,
+    "nama": "Kawah Putih",
+    "provinsi": "Jawa Barat",
+    "kota": "Bandung",
+    "kategori": "Alam",
+    "deskripsi": "Kawah Putih adalah danau kawah vulkanik di puncak Gunung Patuha yang terletak 50 km dari Bandung. Danau ini memiliki warna air yang berubah-ubah antara putih, hijau toska, hingga biru muda, tergantung konsentrasi belerang dan suhu. Suhu di kawasan ini berkisar 8–22°C. Pemandangan dramatis dengan latar pegunungan dan hutan pinus membuat kawasan ini sangat fotogenik.",
+    "alamat": "Situ Patengan, Ciwidey, Bandung, Jawa Barat",
+    "koordinat": {
+      "lat": -7.1668,
+      "lon": 107.4017
+    },
+    "jam_buka": "07.00 - 17.00 WIB",
+    "harga_tiket": "Rp 30.000 (weekday), Rp 35.000 (weekend)",
+    "gambar": "images/kawah_putih.jpg",
+    "rating": 4.5,
+    "tips": "Bawa masker karena bau belerang cukup menyengat. Cuaca berkabut di sore hari bisa menambah nuansa mistis kawasan ini.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kawah_Putih_White_Crater_Bandung_West_Java_Indonesia.jpg/1280px-Kawah_Putih_White_Crater_Bandung_West_Java_Indonesia.jpg"
+  },
+  {
+    "id": 14,
+    "nama": "Pantai Pangandaran",
+    "provinsi": "Jawa Barat",
+    "kota": "Pangandaran",
+    "kategori": "Alam",
+    "deskripsi": "Pantai Pangandaran adalah destinasi wisata pantai paling populer di Jawa Barat. Keunikannya adalah memiliki dua pantai yang saling berdekatan: pantai barat yang tenang untuk berenang dan pantai timur yang berombak untuk surfing. Di ujung pantai terdapat Cagar Alam Pananjung Pangandaran dengan hutan bakau dan berbagai satwa liar. Green Canyon tak jauh dari sini.",
+    "alamat": "Pangandaran, Ciamis, Jawa Barat",
+    "koordinat": {
+      "lat": -7.7064,
+      "lon": 108.6546
+    },
+    "jam_buka": "24 jam",
+    "harga_tiket": "Rp 12.000",
+    "gambar": "images/pangandaran.jpg",
+    "rating": 4.4,
+    "tips": "Coba wisata Green Canyon naik perahu untuk menjelajahi sungai dengan tebing hijau berlumut yang cantik.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pangandaran_beach.jpg/1280px-Pangandaran_beach.jpg"
+  },
+  {
+    "id": 15,
+    "nama": "Tangkuban Perahu",
+    "provinsi": "Jawa Barat",
+    "kota": "Subang",
+    "kategori": "Alam",
+    "deskripsi": "Tangkuban Perahu adalah gunung berapi aktif berbentuk seperti perahu terbalik, 30 km utara Bandung. Legenda Sangkuriang menceritakan asal-usul gunung ini. Pengunjung dapat melihat kawah-kawah aktif dari jarak dekat, termasuk Kawah Ratu dan Kawah Domas. Uap belerang, kolam lumpur mendidih, dan pemandangan hutan pegunungan menjadikan tempat ini sangat unik.",
+    "alamat": "Cikole, Lembang, Subang, Jawa Barat",
+    "koordinat": {
+      "lat": -6.7698,
+      "lon": 107.6095
+    },
+    "jam_buka": "07.00 - 17.00 WIB",
+    "harga_tiket": "Rp 30.000 (weekday), Rp 35.000 (weekend)",
+    "gambar": "images/tangkuban_perahu.jpg",
+    "rating": 4.3,
+    "tips": "Gunakan shuttle dari gerbang bawah ke area kawah. Tetap ikuti instruksi petugas karena aktivitas gunung berubah-ubah.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tangkuban_perahu-2009.jpg/1280px-Tangkuban_perahu-2009.jpg"
+  },
+  {
+    "id": 16,
+    "nama": "Pantai Pelabuhan Ratu",
+    "provinsi": "Jawa Barat",
+    "kota": "Sukabumi",
+    "kategori": "Alam",
+    "deskripsi": "Pantai Pelabuhan Ratu atau Palabuhanratu adalah salah satu pantai paling terkenal di Jawa Barat, terletak di selatan Sukabumi. Pantai ini dikenal dengan ombaknya yang besar dan legendanya yang berhubungan dengan Ratu Kidul. Kawasan ini merupakan surga bagi para peselancar. Seafood segar tersedia di banyak restoran di sepanjang pantai.",
+    "alamat": "Palabuhanratu, Sukabumi, Jawa Barat",
+    "koordinat": {
+      "lat": -6.9839,
+      "lon": 106.544
+    },
+    "jam_buka": "24 jam",
+    "harga_tiket": "Gratis",
+    "gambar": "images/pelabuhan_ratu.jpg",
+    "rating": 4.2,
+    "tips": "Jangan berenang di pantai yang berombak besar. Nikmati seafood di warung-warung lokal yang terjangkau.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pelabuhan_Ratu_beach.jpg/1280px-Pelabuhan_Ratu_beach.jpg"
+  },
+  {
+    "id": 17,
+    "nama": "Candi Gedong Songo",
+    "provinsi": "Jawa Tengah",
+    "kota": "Semarang",
+    "kategori": "Budaya",
+    "deskripsi": "Candi Gedong Songo adalah kompleks candi Hindu dari abad ke-9 yang tersebar di lereng Gunung Ungaran. 'Gedong Songo' berarti sembilan bangunan dalam bahasa Jawa. Terletak di ketinggian 1.200 mdpl, kawasan ini menawarkan perpaduan wisata sejarah dengan pemandangan alam pegunungan yang memukau dan sumber air panas alami.",
+    "alamat": "Candi, Ambarawa, Semarang, Jawa Tengah",
+    "koordinat": {
+      "lat": -7.2167,
+      "lon": 110.3417
+    },
+    "jam_buka": "06.00 - 17.00 WIB",
+    "harga_tiket": "Rp 15.000 (dewasa)",
+    "gambar": "images/gedong_songo.jpg",
+    "rating": 4.5,
+    "tips": "Gunakan jasa kuda untuk berkeliling antar candi. Bawa jaket karena udara di ketinggian ini sangat sejuk.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gedong_Songo_Temples.jpg/1280px-Gedong_Songo_Temples.jpg"
+  },
+  {
+    "id": 18,
+    "nama": "Kota Lama Semarang",
+    "provinsi": "Jawa Tengah",
+    "kota": "Semarang",
+    "kategori": "Budaya",
+    "deskripsi": "Kota Lama Semarang adalah kawasan bersejarah yang menyimpan bangunan-bangunan kolonial Belanda dari abad ke-17 hingga 19. Dijuluki 'Little Netherlands', kawasan ini memiliki lebih dari 50 bangunan cagar budaya termasuk Gereja Blenduk yang ikonik, gudang-gudang tua, dan jalan-jalan berbatu. Kawasan ini telah direvitalisasi menjadi destinasi wisata, kuliner, dan seni.",
+    "alamat": "Kota Lama, Semarang Tengah, Semarang, Jawa Tengah",
+    "koordinat": {
+      "lat": -6.9646,
+      "lon": 110.4278
+    },
+    "jam_buka": "24 jam (ruang terbuka)",
+    "harga_tiket": "Gratis",
+    "gambar": "images/kota_lama_semarang.jpg",
+    "rating": 4.5,
+    "tips": "Kunjungi malam hari saat kawasan diterangi lampu, menciptakan suasana romantis dan atmosfer Eropa yang kental.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gereja_Blenduk_Semarang.jpg/1280px-Gereja_Blenduk_Semarang.jpg"
+  },
+  {
+    "id": 19,
+    "nama": "Dataran Tinggi Dieng",
+    "provinsi": "Jawa Tengah",
+    "kota": "Wonosobo",
+    "kategori": "Alam",
+    "deskripsi": "Dataran Tinggi Dieng adalah kawasan wisata di ketinggian 2.000 mdpl di Kabupaten Wonosobo dan Banjarnegara. 'Dieng' berasal dari bahasa Sansekerta yang berarti 'tempat bersemayam para dewa'. Kawasan ini memiliki kompleks candi Hindu tertua di Jawa, kawah-kawah vulkanik berwarna-warni (Kawah Sikidang, Telaga Warna), dan fenomena embun es yang langka.",
+    "alamat": "Dieng Kulon, Batur, Banjarnegara, Jawa Tengah",
+    "koordinat": {
+      "lat": -7.202,
+      "lon": 109.913
+    },
+    "jam_buka": "06.00 - 17.00 WIB",
+    "harga_tiket": "Rp 20.000",
+    "gambar": "images/dieng.jpg",
+    "rating": 4.7,
+    "tips": "Datang Juli-Agustus untuk melihat embun es di pagi hari. Cicipi kentang goreng dan carica khas Dieng.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dieng_plateau_temples.jpg/1280px-Dieng_plateau_temples.jpg"
+  },
+  {
+    "id": 20,
+    "nama": "Museum Sangiran",
+    "provinsi": "Jawa Tengah",
+    "kota": "Sragen",
+    "kategori": "Budaya",
+    "deskripsi": "Museum Sangiran adalah situs purbakala dan museum arkeologi Situs Warisan Dunia UNESCO di Sragen. Kawasan ini merupakan salah satu situs paleoantropologi terpenting di dunia, tempat ditemukannya fosil Homo erectus atau manusia purba 'Pithecanthropus'. Lebih dari 13.000 fosil telah ditemukan di sini, termasuk fosil gajah purba, rusa, dan buaya.",
+    "alamat": "Sangiran, Kalijambe, Sragen, Jawa Tengah",
+    "koordinat": {
+      "lat": -7.45,
+      "lon": 110.8333
+    },
+    "jam_buka": "08.00 - 16.00 WIB (tutup Senin)",
+    "harga_tiket": "Rp 10.000 (dewasa)",
+    "gambar": "images/museum_sangiran.jpg",
+    "rating": 4.3,
+    "tips": "Ikuti tur dengan pemandu untuk penjelasan mendalam tentang evolusi manusia dan sejarah situs ini.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Museum_Sangiran.jpg/1280px-Museum_Sangiran.jpg"
+  },
+  {
+    "id": 21,
+    "nama": "Pantai Papuma",
+    "provinsi": "Jawa Timur",
+    "kota": "Jember",
+    "kategori": "Alam",
+    "deskripsi": "Pantai Papuma (Pasir Putih Malikan) adalah salah satu pantai tersembunyi terindah di Jawa Timur. Terletak di Jember, pantai ini memiliki pasir putih yang bersih dengan bebatuan karang besar yang dramatis di sepanjang pantai. Hutan jati yang mengelilingi pantai menambah keindahan alami kawasan ini. Pemandangan sunset dari sini sangat menakjubkan.",
+    "alamat": "Lojejer, Wuluhan, Jember, Jawa Timur",
+    "koordinat": {
+      "lat": -8.4647,
+      "lon": 113.4194
+    },
+    "jam_buka": "06.00 - 18.00 WIB",
+    "harga_tiket": "Rp 15.000",
+    "gambar": "images/pantai_papuma.jpg",
+    "rating": 4.6,
+    "tips": "Kunjungi saat musim kemarau (April-Oktober) untuk kondisi pantai terbaik. Jangan lewatkan spot foto di antara bebatuan karang.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pantai_Papuma_Jember.jpg/1280px-Pantai_Papuma_Jember.jpg"
+  },
+  {
+    "id": 22,
+    "nama": "Air Terjun Madakaripura",
+    "provinsi": "Jawa Timur",
+    "kota": "Probolinggo",
+    "kategori": "Alam",
+    "deskripsi": "Air Terjun Madakaripura adalah air terjun tertinggi di Pulau Jawa dan tertinggi kedua di Indonesia dengan ketinggian 200 meter. Tersembunyi di dalam ngarai sempit dengan dinding tebing yang menjulang, air terjun ini menciptakan sebuah 'ruang tersembunyi' yang seperti berada di dalam kolam raksasa. Tempat ini diyakini sebagai tempat meditasi terakhir Patih Gajah Mada dari Majapahit.",
+    "alamat": "Sapih, Lumbang, Probolinggo, Jawa Timur",
+    "koordinat": {
+      "lat": -7.8972,
+      "lon": 113.0297
+    },
+    "jam_buka": "07.00 - 16.00 WIB",
+    "harga_tiket": "Rp 15.000",
+    "gambar": "images/madakaripura.jpg",
+    "rating": 4.8,
+    "tips": "Wajib pakai jas hujan atau baju ganti karena seluruh pengunjung akan basah kuyup. Kenakan alas kaki anti-slip.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Madakaripura_Waterfall.jpg/800px-Madakaripura_Waterfall.jpg"
+  },
+  {
+    "id": 23,
+    "nama": "Batu Malang",
+    "provinsi": "Jawa Timur",
+    "kota": "Batu",
+    "kategori": "Alam",
+    "deskripsi": "Kota Batu di Malang Raya adalah destinasi wisata terpadu di Jawa Timur yang dijuluki 'Little Switzerland of Java' karena udaranya yang sejuk dan pemandangan pegunungannya. Selain wisata alam seperti air terjun Coban Rondo dan Gunung Banyak untuk paralayang, Batu juga memiliki Jatim Park 1, 2, dan 3, Museum Angkut, dan Batu Night Spectacular.",
+    "alamat": "Kota Batu, Jawa Timur",
+    "koordinat": {
+      "lat": -7.8705,
+      "lon": 112.5244
+    },
+    "jam_buka": "Bervariasi tiap objek wisata",
+    "harga_tiket": "Bervariasi tiap objek wisata",
+    "gambar": "images/batu_malang.jpg",
+    "rating": 4.5,
+    "tips": "Kunjungi Museum Angkut untuk koleksi kendaraan antik dari seluruh dunia. Beli apel segar langsung dari kebunnya.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Museum_Angkut_Batu_Malang.jpg/1280px-Museum_Angkut_Batu_Malang.jpg"
+  },
+  {
+    "id": 24,
+    "nama": "Candi Singosari",
+    "provinsi": "Jawa Timur",
+    "kota": "Malang",
+    "kategori": "Budaya",
+    "deskripsi": "Candi Singosari adalah candi Hindu-Buddha yang dibangun pada abad ke-13 untuk menghormati Raja Kertanagara, raja terakhir Kerajaan Singhasari. Terletak di lereng Gunung Arjuno, candi setinggi 14,5 meter ini menampilkan arsitektur khas Jawa Timur dengan arca-arca dewa Hindu yang masih terjaga baik. Candi ini merupakan peninggalan penting dari Kerajaan Singhasari yang mendahului Majapahit.",
+    "alamat": "Candirenggo, Singosari, Malang, Jawa Timur",
+    "koordinat": {
+      "lat": -7.9057,
+      "lon": 112.6662
+    },
+    "jam_buka": "07.00 - 16.00 WIB",
+    "harga_tiket": "Rp 5.000",
+    "gambar": "images/candi_singosari.jpg",
+    "rating": 4.2,
+    "tips": "Kunjungi bersamaan dengan Candi Jago dan Candi Kidal di Malang untuk paket wisata sejarah Kerajaan Singhasari-Majapahit.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Singosari_temple.jpg/800px-Singosari_temple.jpg"
+  },
+  {
+    "id": 25,
+    "nama": "Taman Sari Yogyakarta",
+    "provinsi": "DI Yogyakarta",
+    "kota": "Yogyakarta",
+    "kategori": "Budaya",
+    "deskripsi": "Taman Sari adalah bekas taman kerajaan Kesultanan Yogyakarta yang dibangun sekitar tahun 1758. Kompleks ini dulunya berfungsi sebagai tempat peristirahatan, meditasi, dan pemandian bagi sultan dan keluarganya. Bangunan-bangunan utama meliputi kolam pemandian Umbul Pasiraman, masjid bawah tanah (Sumur Gumuling), dan lorong-lorong bawah tanah yang misterius.",
+    "alamat": "Patehan, Kraton, Yogyakarta, DI Yogyakarta",
+    "koordinat": {
+      "lat": -7.8102,
+      "lon": 110.3583
+    },
+    "jam_buka": "09.00 - 15.00 WIB",
+    "harga_tiket": "Rp 15.000 (dewasa)",
+    "gambar": "images/taman_sari.jpg",
+    "rating": 4.5,
+    "tips": "Datang pagi hari sebelum ramai. Jangan lewatkan Masjid Sumur Gumuling yang unik berbentuk melingkar di bawah tanah.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Taman_Sari_Water_Castle_Yogyakarta.jpg/1280px-Taman_Sari_Water_Castle_Yogyakarta.jpg"
+  },
+  {
+    "id": 26,
+    "nama": "Pantai Indrayanti",
+    "provinsi": "DI Yogyakarta",
+    "kota": "Gunungkidul",
+    "kategori": "Alam",
+    "deskripsi": "Pantai Indrayanti adalah salah satu pantai paling indah di kawasan Gunungkidul, Yogyakarta. Berbeda dengan pantai di Yogyakarta pada umumnya, Indrayanti memiliki air yang lebih jernih, pasir putih yang bersih, dan tebing-tebing kapur yang dramatis. Tersedia warung makan di tepi pantai dengan seafood segar. Pantai ini relatif lebih terjaga kebersihannya dibanding pantai lain di kawasan ini.",
+    "alamat": "Sidoharjo, Tepus, Gunungkidul, DI Yogyakarta",
+    "koordinat": {
+      "lat": -8.1538,
+      "lon": 110.6425
+    },
+    "jam_buka": "24 jam",
+    "harga_tiket": "Rp 10.000",
+    "gambar": "images/pantai_indrayanti.jpg",
+    "rating": 4.6,
+    "tips": "Bisa dikombinasikan dengan kunjungi Pantai Sundak dan Pantai Drini yang letaknya berdekatan.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pantai_Indrayanti.jpg/1280px-Pantai_Indrayanti.jpg"
+  },
+  {
+    "id": 27,
+    "nama": "Lawang Sewu",
+    "provinsi": "Jawa Tengah",
+    "kota": "Semarang",
+    "kategori": "Budaya",
+    "deskripsi": "Lawang Sewu ('Seribu Pintu' dalam bahasa Jawa) adalah gedung bersejarah peninggalan kolonial Belanda yang dibangun pada 1904 sebagai kantor pusat kereta api Nederlands-Indische Spoorweg Maatschappij (NIS). Bangunan neo-klasik dengan ratusan pintu dan jendela kaca patri ini menjadi ikon kota Semarang. Gedung ini juga terkenal dengan kisah-kisah mistis dari masa penjajahan Jepang.",
+    "alamat": "Jl. Pemuda, Sekayu, Semarang Tengah, Semarang, Jawa Tengah",
+    "koordinat": {
+      "lat": -6.984,
+      "lon": 110.41
+    },
+    "jam_buka": "07.00 - 21.00 WIB",
+    "harga_tiket": "Rp 10.000 (dewasa)",
+    "gambar": "images/lawang_sewu.jpg",
+    "rating": 4.6,
+    "tips": "Ikuti tur malam untuk pengalaman yang berbeda. Pelajari sejarahnya karena bangunan ini menyimpan banyak cerita penting.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lawang_Sewu.jpg/1280px-Lawang_Sewu.jpg"
+  },
+  {
+    "id": 28,
+    "nama": "Pantai Karimunjawa",
+    "provinsi": "Jawa Tengah",
+    "kota": "Jepara",
+    "kategori": "Alam",
+    "deskripsi": "Karimunjawa adalah kepulauan dan taman nasional laut di Laut Jawa, sekitar 83 km dari Jepara. Taman Nasional Karimunjawa terdiri dari 27 pulau dengan terumbu karang yang kaya, hutan mangrove, dan pantai berpasir putih yang menakjubkan. Kejernihan airnya yang luar biasa menjadikan Karimunjawa sebagai surga diving dan snorkeling terbaik di Jawa.",
+    "alamat": "Karimunjawa, Jepara, Jawa Tengah",
+    "koordinat": {
+      "lat": -5.8677,
+      "lon": 110.4381
+    },
+    "jam_buka": "24 jam",
+    "harga_tiket": "Rp 25.000 (tiket masuk kawasan)",
+    "gambar": "images/karimunjawa.jpg",
+    "rating": 4.8,
+    "tips": "Gunakan kapal cepat dari Jepara (2 jam) atau kapal ferry dari Semarang (6 jam). Terbaik dikunjungi April-Oktober.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Karimunjawa_National_Park.jpg/1280px-Karimunjawa_National_Park.jpg"
+  },
+  {
+    "id": 29,
+    "nama": "Monumen Nasional (Monas)",
+    "provinsi": "DKI Jakarta",
+    "kota": "Jakarta Pusat",
+    "kategori": "Budaya",
+    "deskripsi": "Monumen Nasional atau Monas adalah monumen setinggi 132 meter di pusat Lapangan Merdeka, Jakarta. Dibangun antara 1961-1975 atas prakarsa Presiden Soekarno sebagai simbol kemerdekaan Indonesia. Puncaknya dihiasi lidah api berlapis emas murni 35 kg. Pengunjung dapat naik ke puncak untuk menikmati panorama Jakarta 360 derajat. Di bawahnya terdapat Museum Sejarah Nasional.",
+    "alamat": "Gambir, Jakarta Pusat, DKI Jakarta",
+    "koordinat": {
+      "lat": -6.1754,
+      "lon": 106.8272
+    },
+    "jam_buka": "08.00 - 16.00 WIB (tutup Senin)",
+    "harga_tiket": "Rp 5.000 (pelataran), Rp 20.000 (puncak)",
+    "gambar": "images/monas.jpg",
+    "rating": 4.4,
+    "tips": "Antri tiket naik ke puncak lebih awal. Kunjungi museum di basement Monas untuk diorama sejarah perjuangan Indonesia.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MONAS_-_Jakarta.jpg/800px-MONAS_-_Jakarta.jpg"
+  },
+  {
+    "id": 30,
+    "nama": "Gunung Merapi",
+    "provinsi": "DI Yogyakarta",
+    "kota": "Sleman",
+    "kategori": "Alam",
+    "deskripsi": "Gunung Merapi adalah gunung berapi paling aktif di Indonesia dan salah satu yang paling berbahaya di dunia. Terletak di perbatasan Jawa Tengah dan DI Yogyakarta, gunung dengan ketinggian 2.930 mdpl ini menyimpan daya tarik wisata yang luar biasa. Jeep Tour Merapi menjadi aktivitas wisata paling populer, menjelajahi area bekas erupsi 2010 dengan lava tour ke situs-situs yang terdampak.",
+    "alamat": "Hargobinangun, Pakem, Sleman, DI Yogyakarta",
+    "koordinat": {
+      "lat": -7.5407,
+      "lon": 110.4457
+    },
+    "jam_buka": "24 jam (taman nasional)",
+    "harga_tiket": "Rp 10.000 (kawasan); Rp 450.000 (jeep tour)",
+    "gambar": "images/gunung_merapi.jpg",
+    "rating": 4.7,
+    "tips": "Ikuti Lava Tour Merapi dengan jeep untuk menjelajahi situs erupsi. Cek status aktivitas Merapi di BPPTKG sebelum berkunjung.",
+    "gambar_url_asli": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Merapi_from_Merbabu%2C_2009.jpg/1280px-Merapi_from_Merbabu%2C_2009.jpg"
+  }
+]
