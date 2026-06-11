@@ -28,26 +28,22 @@ def load_image(path_relatif):
     full_path = os.path.join(BASE_DIR, path_relatif)
     img = Image.open(full_path)
     
-    # Tentukan ukuran target yang kamu inginkan (Lebar, Tinggi)
+    #(Lebar, Tinggi)
     target_width = 600
     target_height = 400
     
-    # Logika untuk crop bagian tengah secara proporsional
     img_ratio = img.width / img.height
     target_ratio = target_width / target_height
     
     if img_ratio > target_ratio:
-        # Gambar terlalu lebar, potong sisi kiri dan kanan
         new_width = int(target_ratio * img.height)
         offset = (img.width - new_width) // 2
         img_cropped = img.crop((offset, 0, img.width - offset, img.height))
     else:
-        # Gambar terlalu tinggi, potong sisi atas dan bawah
         new_height = int(img.width / target_ratio)
         offset = (img.height - new_height) // 2
         img_cropped = img.crop((0, offset, img.width, img.height - offset))
         
-    # Terakhir, resize hasil potongan ke ukuran target
     return img_cropped.resize((target_width, target_height))
 
 # ──────────────────────────────────────────────
@@ -172,14 +168,14 @@ section[data-testid="stSidebar"] .stTextInput label {
 section[data-testid="stSidebar"] input {
     background: rgba(255,255,255,0.12) !important;
     border: 1px solid rgba(255,255,255,0.2) !important;
-    color: var(--putih) !important;
+    color: var(--abu-gelap) !important;
     border-radius: 8px !important;
 }
 section[data-testid="stSidebar"] .stSelectbox > div > div {
     background: rgba(255,255,255,0.12) !important;
     border: 1px solid rgba(255,255,255,0.2) !important;
     border-radius: 8px !important;
-    color: var(--putih) !important;
+    color: var(--abu-gelap) !important;
 }
 .sidebar-brand {
     text-align: center;
@@ -388,7 +384,6 @@ def badge_html(kategori):
 
 def tampilkan_kartu(w, key_prefix):
     """Render satu kartu wisata menggunakan st.image() untuk gambar lokal."""
-    # Gambar — pakai st.image dengan CSS override untuk height fixed
     try:
         img = load_image(w["gambar"])
         st.markdown('<div class="kartu-img-wrap">', unsafe_allow_html=True)
